@@ -2,8 +2,8 @@
 [![mgytr's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgytr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 Discord: @mgytr_    
 Telegram: [@rk55rk55](https://t.me/rk55rk55)    
-[mgyt.xyz](https://mgyt.xyz)    
-[blog](https://blog.mgyt.xyz)
+[Website](https://mgyt.xyz)
+[Blog](https://blog.mgyt.xyz)
 <!--
 **mgytr/mgytr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
